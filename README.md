@@ -1,6 +1,6 @@
 ## REST Countries API with color theme switcher
 
-(./design/desktop-preview.jpg)
+![](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -10,13 +10,13 @@
 - Contains a filter option for grouping countries by region name
 
 
-(./design/desktop-design-detail-dark.jpg)
+![](./design/desktop-design-detail-dark.jpg)
 
 - By selecting a country from the homepage, you will be taken to the country details page, which contains all of the country's information.
 - Name, capital, currency, bordering nations, population, region, subregion, and languages are all included.
 
 
-(./design/desktop-design-home-light.jpg)
-(./design/desktop-design-detail-light.jpg)
+![](./design/desktop-design-home-light.jpg)
+![](./design/desktop-design-detail-light.jpg)
 
 - Toggle between dark and light color schemes
