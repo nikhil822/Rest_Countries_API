@@ -1,5 +1,7 @@
 ## REST Countries API with color theme switcher
 
+Live Demo: https://genuine-melomakarona-d14e23.netlify.app/
+
 ![](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
